@@ -1,0 +1,9 @@
+.DS_Store
+.vercel
+node_modules
+*.log
+
+# Local launch operations; never publish these files.
+GMB-HANDOFF.md
+registry-record.json
+scripts/upsert_registry.py
