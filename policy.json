@@ -1,0 +1,36 @@
+{
+  "config": {},
+  "domains": [
+    {
+      "name": "neonbayou.shop",
+      "apexName": "neonbayou.shop",
+      "redirect": null,
+      "redirectStatusCode": null,
+      "verified": true
+    },
+    {
+      "name": "www.neonbayou.shop",
+      "apexName": "neonbayou.shop",
+      "redirect": null,
+      "redirectStatusCode": null,
+      "verified": true
+    }
+  ],
+  "files": [
+    "/assets/favicon.svg",
+    "/assets/foam-wash.jpg",
+    "/assets/headlight-wash.jpg",
+    "/assets/hero-night.jpg",
+    "/assets/interior-vacuum.jpg",
+    "/assets/logo.svg",
+    "/assets/polish.jpg",
+    "/assets/water-drops.jpg",
+    "/assets/wheel-foam.jpg",
+    "/assets/windshield.jpg",
+    "/index.html",
+    "/robots.txt",
+    "/script.js",
+    "/sitemap.xml",
+    "/styles.css"
+  ]
+}
